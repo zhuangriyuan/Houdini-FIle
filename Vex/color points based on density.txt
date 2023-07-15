@@ -1,5 +1,3 @@
-color points based on density
-
 int pc = pcfind(0,'P',@P,ch('maxdist'),ch('maxpt'));
 @Cd = float(len(pc))/ch('maxpt');
 
